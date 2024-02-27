@@ -1,7 +1,7 @@
 {
   "name": "aulas1",
   "version": "1.0.1",
-  "description": "aula de comandos git",
+  "description": "aula de comandos git.....",
   "main": "index.js",
   "scripts": {
     "dev":"node index.js",
